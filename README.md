@@ -1,16 +1,22 @@
-### Hi there 👋
+### Fábio Guedes aqui :)
+Atualmente Cientista de Dados em formação.
 
-<!--
-**fabionguedes/fabionguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 **Estudante** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
+- 🧗🏼 Apaixonado por **escalada**
+- 📸 **Fotografia** como hobby
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/48/sql.png" alt="sql"/>&nbsp;&nbsp;
+</div> 
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/fabionguedes">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+
+#### E pode aproveitar pra ver alguns conteúdos que eu criei:
+
